@@ -1,4 +1,4 @@
-# DevOps Project: Setting Up a IDE on AWS EC2 
+# AWS & DevOps Project: Setting Up IDE on AWS EC2 
 
 This project demonstrates how to set up a development environment for Java applications on an AWS EC2 instance using Visual Studio Code (VS Code) and Remote-SSH. The focus is on integrating DevOps practices to streamline the development workflow, including environment setup, code editing, and deployment.
 
