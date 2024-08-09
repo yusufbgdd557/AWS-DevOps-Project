@@ -155,7 +155,8 @@ icacls C:\path\to\your-key-pair.pem /inheritance:r /grant:r %username%:R
    - Save your changes.
 
 
-![ec2working](https://github.com/user-attachments/assets/18f3babb-a01c-45f7-83c7-9974f7f5e17e)
+![ec2working](https://github.com/user-attachments/assets/a4a9348a-fcfd-4573-97d8-094e98f3e568)
+
 
 
 ## Explanation
