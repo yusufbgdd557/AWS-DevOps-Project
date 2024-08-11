@@ -1,4 +1,4 @@
-# AWS & DevOps Project: Setting Up an IDE on AWS EC2 
+# AWS & DevOps Project 1 : Setting Up an IDE on AWS EC2 
 
 **Purpose of the Project:**
 This project provides an alternative way to set up a IDE on an EC2 instance using VS Code and Remote-SSH *(since I couldn't access AWS Cloud9 due to access restrictions)*. It offers a flexible cloud-based development solution, aligned with DevOps practices.
