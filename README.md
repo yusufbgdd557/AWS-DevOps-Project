@@ -12,7 +12,7 @@ This project provides an alternative way to set up a IDE on an EC2 instance usin
 
 
 
-![8888](https://github.com/user-attachments/assets/eff6f9ec-e202-4741-bb36-f990dd9079bd)
+   ![8888](https://github.com/user-attachments/assets/eff6f9ec-e202-4741-bb36-f990dd9079bd)
 
 
 
@@ -42,9 +42,9 @@ By following these steps, you'll gain practical experience in setting up a devel
    - Create a new key pair and download the `.pem` file.
    - Click "Launch Instances" and wait for the instance to be initialized.
 
-![ec2](https://github.com/user-attachments/assets/a56cfc16-754a-45fc-99c1-35dd64cb2f0f)
+      ![ec2](https://github.com/user-attachments/assets/a56cfc16-754a-45fc-99c1-35dd64cb2f0f)
 
-![ec2instance](https://github.com/user-attachments/assets/ac7af1a2-3fd6-47b5-b4f2-ed9674710477)
+      ![ec2instance](https://github.com/user-attachments/assets/ac7af1a2-3fd6-47b5-b4f2-ed9674710477)
 
 ### Step 2: Download the .pem File
 
@@ -85,7 +85,7 @@ icacls C:\path\to\your-key-pair.pem /inheritance:r /grant:r %username%:R
        User ec2-user
      ```
      
-![config](https://github.com/user-attachments/assets/a596da2b-186f-4f55-adef-6a1b486e4c85)
+      ![config](https://github.com/user-attachments/assets/a596da2b-186f-4f55-adef-6a1b486e4c85)
 
    - **Explanation:**
      - `<Your-Host-Name>`: A friendly name for your connection (you can name this whatever you like).
@@ -156,7 +156,7 @@ icacls C:\path\to\your-key-pair.pem /inheritance:r /grant:r %username%:R
    - Save your changes.
 
 
-![ec2working](https://github.com/user-attachments/assets/a4a9348a-fcfd-4573-97d8-094e98f3e568)
+      ![ec2working](https://github.com/user-attachments/assets/a4a9348a-fcfd-4573-97d8-094e98f3e568)
 
 
 
